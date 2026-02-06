@@ -1,3 +1,5 @@
+# Developed and maintained by Elaheh Heidarian Gorji
+# Focus: Computational Analysis of Chromosome Dynamics and Cellular Imaging
 import cv2
 import math
 import numpy as np
