@@ -1,3 +1,5 @@
+# Developed and maintained by Elaheh Heidarian Gorji
+# Focus: Computational Analysis of Chromosome Dynamics and Cellular Imaging
 import numpy as np
 
 
@@ -452,4 +454,5 @@ ADE20K_class_names  =  ['wall', 'building, edifice', 'sky',
                 'plate', 'monitor, monitoring device',
                 'bulletin board, notice board', 'shower',
                 'radiator',
+
                 'glass, drinking glass', 'clock', 'flag']
