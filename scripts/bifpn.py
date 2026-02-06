@@ -1,3 +1,5 @@
+# Developed and maintained by Elaheh Heidarian Gorji
+# Focus: Computational Analysis of Chromosome Dynamics and Cellular Imaging
 import sys
 import tensorflow as tf
 from tensorflow.keras.models import Model
@@ -364,3 +366,4 @@ def OP_BiFPN(p2, p3, p4, p5, p6, p7, bifpn_layer, Dropout_Rate=0.3, Use_Dropout=
     
         
     return p2_seg, p2_inst
+
