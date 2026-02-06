@@ -1,24 +1,24 @@
-# Quantitative Cell Biology: Image Analysis & Segmentation Pipeline
+# Bioimage Informatics: Automated Pipeline for Cellular Morphometrics
 ## Researcher: Elaheh Heydarian Gorji 
-### Targeted for: Gerlich Lab | IMBA - Institute of Molecular Biotechnology
+### Shahid Beheshti University
 
-This repository demonstrates a computational workflow for high-throughput image analysis of cell nuclei. The project focuses on automating the segmentation and classification of cellular structures, a core requirement for studying chromosome organization and cell division.
+This repository features a robust computational pipeline designed for the high-throughput analysis of microscopy data. By integrating computer vision with machine learning, this project automates the detection, segmentation, and quantitative profiling of cellular structures—essential for research in cell cycle dynamics, oncology, and genomic stability.
 
-## 🧬 Scientific Relevance
-In modern cell biology, quantifying morphological changes in chromosomes and nuclei is essential. This pipeline utilizes machine learning to:
-- Detect and segment cell nuclei from microscopy datasets.
-- Extract quantitative features (Area, Perimeter, Eccentricity) to analyze structural variations.
-- Provide interpretable visualizations for experimental validation.
+## 🔬 Core Research Capabilities
+- **Precision Segmentation:** Leveraging advanced algorithms to identify cellular boundaries in complex fluorescence microscopy datasets.
+- **Quantitative Morphometrics:** Automated extraction of high-dimensional features (e.g., spatial distribution, shape descriptors, and intensity profiles).
+- **Statistical Integration:** Translating raw pixel data into reproducible biological insights using Python-based data science stacks.
 
-## 🛠 Technical Implementation
-- **Image Processing:** OpenCV and Scikit-image for pre-processing and noise reduction.
-- **Deep Learning/ML:** Implementation of segmentation algorithms to identify biological boundaries.
-- **Data Visualization:** Matplotlib and Seaborn for translating raw image data into statistical insights.
+## 🛠 Technical Stack
+- **Vision Libraries:** OpenCV, Scikit-image (Denoising, Thresholding, and Edge Detection).
+- **Analytics & ML:** Scikit-learn for classification and feature importance analysis.
+- **Data Engineering:** NumPy & Pandas for handling large-scale biological datasets.
+- **Visualization:** Matplotlib & Seaborn for generating publication-quality figures.
 
-## 🚀 Skills for Bioinformatician Role
-- **Python:** Robust scripting for data processing.
-- **Automated Workflows:** Building pipelines from raw microscopic data to final visualization.
-- **Collaboration Ready:** Code is documented for technical exchange and peer review.
+## 🌟 Professional Strengths
+- **Pipeline Engineering:** Ability to build end-to-end workflows from raw image acquisition to final statistical reporting.
+- **Interdisciplinary Focus:** bridging the gap between molecular biology and computational science.
+- **Scalability:** Code is structured to be adaptable for various cell lines and imaging modalities.
 
 ---
-*Developed as part of my commitment to advancing computational methods in molecular biotechnology.*
+*Driven by a passion for Computational Oncology, Evolutionary Genomics, and the development of open-source scientific software.*
