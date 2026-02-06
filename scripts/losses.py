@@ -1,3 +1,5 @@
+# Developed and maintained by Elaheh Heidarian Gorji
+# Focus: Computational Analysis of Chromosome Dynamics and Cellular Imaging
 import tensorflow as tf
 import numpy as np
 from models import  num_of_classes
@@ -168,3 +170,4 @@ def Combo_loss(y_true, y_pred, smooth=1):
  
  return combo
     
+
